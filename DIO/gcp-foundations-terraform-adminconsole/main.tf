@@ -23,6 +23,7 @@ resource "googleworkspace_group" "devops" {
   }
 }
 
+# O e-mail e senha abaixo só está em um repositório público, pois é fictício.
 resource "googleworkspace_user" "joao" {
   primary_email = "joao@minha-empresa.com.br"
   password      = "34819d7beeabb9260a5c854bc85b3e44"
