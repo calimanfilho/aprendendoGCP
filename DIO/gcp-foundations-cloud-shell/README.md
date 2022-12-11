@@ -1,6 +1,6 @@
 # Utilizando o _Cloud Shell_
 
-Repositório contento o passo a passo para a execução da...
+Repositório contento o passo a passo para a execução da aplicação `quarkus-helloworld`.
 
 1. Ativar o _Cloud Shell_.
 
