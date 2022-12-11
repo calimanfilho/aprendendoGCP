@@ -1,6 +1,6 @@
 # Orçamento e Alertas no Faturamento na Google Cloud Platform
 
-Repositório contento os _prints_ da configuração do Orçamento e Alertas no GCP, para essa configuração foi levado em consideração os seguintes pontos:
+Repositório contento as imagens da configuração do Orçamento e Alertas no GCP, para essa configuração foi levado em consideração os seguintes pontos:
 
 1. Valor do orçamento em R$20,00 mensais buscando manter a desepesa em um valor bastante pequeno.
 
