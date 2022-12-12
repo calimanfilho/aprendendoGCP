@@ -6,6 +6,8 @@ Repositório contento as imagens da configuração do Orçamento e Alertas no GC
 
 2. Alertas em 50%, 90% e 100% do valor do orçamento para ser avisado de possíveis gastos não desejados.
 
+![Orçamento e Alertas no Faturamento na Google Cloud Platform](images/gcp-foundations-billing.png)
+
 # Exportação de Faturamento para o BigQuey
 
 O `BigQuery Export` envia os dados de faturamento para um conjunto de dados do BigQuery. Para configurar a exportação deve ser feito os seguintes passos:
@@ -23,3 +25,5 @@ O `BigQuery Export` envia os dados de faturamento para um conjunto de dados do B
 6. Retornará a tela anterior, onde deverá ser selecionado o conjunto de dados criado anteriormente.
 
 7. Clicar em `SALVAR` para finalizar a configuração da exportação do faturamento.
+
+![Exportação de Faturamento para o BigQuey](images/gcp-foundations-billing-export.png)
